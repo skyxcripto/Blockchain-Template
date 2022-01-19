@@ -1,0 +1,20 @@
+{
+  "../../node_modules/@web3-react/metamask/dist/index.js -> @metamask/detect-provider": {
+    "id": "./node_modules/@metamask/detect-provider/dist/index.js",
+    "files": [
+      "static/chunks/node_modules_metamask_detect-provider_dist_index_js.js"
+    ]
+  },
+  "../../node_modules/@web3-react/walletconnect/dist/index.js -> @walletconnect/ethereum-provider": {
+    "id": "./node_modules/@walletconnect/ethereum-provider/dist/esm/index.js",
+    "files": [
+      "static/chunks/node_modules_walletconnect_ethereum-provider_dist_esm_index_js.js"
+    ]
+  },
+  "index.tsx -> ../App": {
+    "id": "./src/App.tsx",
+    "files": [
+      "static/chunks/src_App_tsx.js"
+    ]
+  }
+}
